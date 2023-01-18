@@ -1,0 +1,8 @@
+# idea
+.idea
+
+# Mac OS X
+.DS_Store
+
+# Temp file
+.swp
